@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Updated SQL Query Plot Code (#8120)
